@@ -1,5 +1,5 @@
 {
-    "name": "square/laravel-hyrule",
+    "name": "helixdigital-io/laravel-hyrule",
     "description": "Fluent API for building validation rules in Laravel",
     "license": "Apache-2.0",
     "type": "library",
